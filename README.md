@@ -180,7 +180,7 @@ gcc main.c -o network_sim -lm
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/mfbvedant)
+- GitHub: [@mfbvedant](https://github.com/mfbvedant)
 - Email: vedantsj6@gmail.com
 
 ---
